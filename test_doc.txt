@@ -1,0 +1,4 @@
+Use 3MA for electronics on a monthly basis.  
+New SKUs should be manually forecasted until 3 months of sales history is available.  
+Replenishment for Class A items must follow a min-max strategy and run daily.  
+Safety stock for fast-moving items should be calculated using the formula: SS = Z * σ * √LT.

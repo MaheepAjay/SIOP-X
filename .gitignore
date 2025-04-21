@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Environment
+.env
+.venv/
+venv/
+env/
+*.env
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+
+# FastAPI
+*.log
